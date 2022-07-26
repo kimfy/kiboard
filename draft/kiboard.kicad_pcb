@@ -3883,6 +3883,12 @@
   (gr_arc (start 80.519646 -3.239149) (mid 81.403324 -2.778603) (end 81.530155 -1.783638) (layer "Edge.Cuts") (width 0.15) (tstamp e5f848c2-f653-4a8b-9677-966cd3ca9606))
   (gr_arc (start 43.815 -1.905) (mid 44.083856 -2.536244) (end 44.728806 -2.770146) (layer "Edge.Cuts") (width 0.15) (tstamp e7f06362-9ac3-4d88-851b-923fce5bdd0d))
   (gr_arc (start 26.249999 -43.459349) (mid 26.585537 -44.334121) (end 27.433904 -44.740295) (layer "Edge.Cuts") (width 0.15) (tstamp f06016b8-31f1-42a0-932f-cd719ddb2d5a))
+  (gr_text "KIBOARD 001-DRAFT" (at 3.048 22.86 14) (layer "B.SilkS") (tstamp 42e6688a-8c76-429f-8247-529e44603d69)
+    (effects (font (size 1.5 1.5) (thickness 0.15)) (justify mirror))
+  )
+  (gr_text "KIBOARD 001-DRAFT" (at 3.048 22.86 14) (layer "F.SilkS") (tstamp 6974d63e-3305-4f2d-a490-7cdc3e02d71a)
+    (effects (font (size 1.5 1.5) (thickness 0.15)))
+  )
 
   (segment (start 11.8 3.8) (end 13.314 2.286) (width 0.25) (layer "F.Cu") (net 1) (tstamp 0b50e9f2-52ec-445e-aa2d-dbc5b7f01c36))
   (segment (start 20.246697 0) (end 19.924999 -0.321698) (width 0.25) (layer "F.Cu") (net 1) (tstamp 28920038-cc25-4a5b-a10a-a054fabe90b7))
