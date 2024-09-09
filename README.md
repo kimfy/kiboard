@@ -5,6 +5,16 @@ The name is a play on my initials (Kim I.)...
 
 I initially started creating this keyboard with the ergogen tool but I converted over to KICAD. 
 
+## Revision 3
+
+Working on as of September 9th 2024.
+
+Features I want to add:
+- [ ] Third key on the thumb cluster.
+- [ ] Artwork on the front and back (don't know what yet).
+
+![KIBOARD rev.3](./assets/rev3.png)
+
 ## List of products
 
 [2x nice!nano v2](https://splitkb.com/products/nice-nano?variant=39408154116173)
